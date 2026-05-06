@@ -21,7 +21,7 @@ ADS_CONFIG = {
         },
     },
     "adsterra": {
-        "smartlink": "https://www.profitablecpmratenetwork.com/m1kx3wtng?key=8559bf6dff0b68dd7bf7904a6b99a59e",
+        "smartlink": "https://www.profitablecpmratenetwork.com/mez5kqt1w?key=67b9838356652850bc7aa9c9ea0fd84a",
     },
 }
 
